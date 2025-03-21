@@ -1,3 +1,5 @@
+st.title("Dr. L. Netajit Singh, Asst. Professor (Agril. Statistics")
+st.header("College of Agriculture, AU Jodhpur")
 import streamlit as st
 from PIL import Image
 import numpy as np
@@ -5,7 +7,7 @@ import tensorflow as tf
 import gdown
 import os
 
-st.title("another app")
+st.title("Pottato Disease Identification")
 
 MODEL_PATH = "model.h5"
 MODEL_URL = "https://drive.google.com/uc?id=16C4htGdEOytby6qEFsaw8RGqrfIgbtaV"
