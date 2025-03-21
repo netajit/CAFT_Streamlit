@@ -1,3 +1,4 @@
+import streamlit as st
 st.title("Dr. L. Netajit Singh, Asst. Professor (Agril. Statistics")
 st.header("College of Agriculture, AU Jodhpur")
 import streamlit as st
