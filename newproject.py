@@ -1,6 +1,6 @@
 import streamlit as st
-st.title("Dr. L. Netajit Singh, Asst. Professor (Agril. Statistics")
-st.header("College of Agriculture, AU Jodhpur")
+st.title("College of Agriculture, AU Jodhpur")
+st.header(" Dr. L. Netajit Singh, Asst. Professor (Agril. Statistics)")
 import streamlit as st
 from PIL import Image
 import numpy as np
