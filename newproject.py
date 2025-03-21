@@ -1,11 +1,4 @@
 import streamlit as st
-st.title("Streamlit")
-st.header("this is header")
-st.subheader("this is subheader")
-st.text("this is my text what ever i want to edit")
-st.markdown("*streamlit* is **really** ** cool**.")
-
-import streamlit as st
 from PIL import Image
 import numpy as np
 import tensorflow as tf
