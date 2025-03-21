@@ -1,5 +1,5 @@
 import streamlit as st
-st.markdown('<h3 style="font-size: 25px;">College of Agriculture, AU Jodhpur</h3>', unsafe_allow_html=True)
+st.markdown('<h3 style="font-size: 25px; color: blue;">College of Agriculture, AU Jodhpur</h3>', unsafe_allow_html=True)
 st.markdown('<h3 style="font-size: 20px;">Dr. L. Netajit Singh, Asst. Professor (Agril. Statistics)</h3>', unsafe_allow_html=True)
 import streamlit as st
 from PIL import Image
